@@ -3,4 +3,4 @@
 ## run start.bat
 ## enjoy
 ### proxy
-#### ${user}:${password}@${formattedProxy}:${port}
+#### username:password@ip:port
